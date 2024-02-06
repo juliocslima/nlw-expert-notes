@@ -9,12 +9,12 @@
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/juliocslima/ignite-lab-reactjs/blob/main/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/juliocslima/Ignite Lab ReactJS" />
+  <a href="https://github.com/juliocslima/nlw-expert-notes/blob/main/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/juliocslima/nlw-expert-notes" />
   </a>
 </p>
 
-# Ignite Lab ReactJS
+# NLW Expert - Notes
 
 > Este projeto foi resultado do evento NLW Expert promovido pela Rocketseat, onde criamos uma aplicação de criação de notas
 
