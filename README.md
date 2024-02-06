@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Ignite Lab ReactJS 👋</h1>
+<h1 align="center">Welcome to NLW Expert Notes project 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
@@ -16,7 +16,7 @@
 
 # Ignite Lab ReactJS
 
-> Este projeto foi resultado do evento NLW Expert promovido pela Rocketseat, onde criamos de criação de notas
+> Este projeto foi resultado do evento NLW Expert promovido pela Rocketseat, onde criamos uma aplicação de criação de notas
 
 <img src="Thumbnail.png" alt="NLW Expert Notes"/>
 
