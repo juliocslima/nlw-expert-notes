@@ -53,5 +53,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 [Julio Lima](https://github.com/juliocslima).<br />
+Copyright © 2024 [Julio Lima](https://github.com/juliocslima).<br />
 This project is [MIT](https://github.com/juliocslima/nlw-expert-notes/blob/main/LICENSE) licensed.
